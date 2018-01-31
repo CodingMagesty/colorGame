@@ -6,6 +6,12 @@ h1 {
   color: white;
 }
 
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+}
+
 #container {
   max-width: 600px;
   margin: 0 auto;
